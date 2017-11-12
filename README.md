@@ -74,3 +74,6 @@ torch.Size([3000, 1000])
 torch.Size([3000])
 
 torch.Size([3000])
+
+
+![alt text](https://https://github.com/Kong26/DynamicMemoryNetwork/tree/master/Results/Single Supporting Fact _ Train History.PNG)
