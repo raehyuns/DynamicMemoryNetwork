@@ -75,5 +75,7 @@ torch.Size([3000])
 
 torch.Size([3000])
 
-
-![alt text](https://https://github.com/Kong26/DynamicMemoryNetwork/tree/master/Results/Single Supporting Fact _ Train History.PNG)
+<p align="center">
+  <img src="DynamicMemoryNetwork/Results/Single_Supporting_Fact_Test_result.PNG" width="350"/>
+</p>
+![alt tag](https://github.com/Kong26/DynamicMemoryNetwork/blob/master/Results/Single_Supporting_Fact_Test_result.PNG)
