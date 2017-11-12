@@ -47,7 +47,8 @@ torch.Size([3000])
 <p align="center">
   <img src=https://github.com/Kong26/DynamicMemoryNetwork/blob/master/Results/Single_Supporting_Fact_Train_history.PNG width="1200"/>
 </p>
-## test
+
+## Test
 <p align="center">
   <img src=https://github.com/Kong26/DynamicMemoryNetwork/blob/master/Results/Single_Supporting_Fact_Test_result.PNG width="1200"/>
 </p>
