@@ -1,6 +1,7 @@
 # DynamicMemoryNetwork
 
 GRU input module
+
 torch.Size([3000, 300])
 torch.Size([3000, 1000])
 torch.Size([3000])
