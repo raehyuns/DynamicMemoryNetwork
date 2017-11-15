@@ -1,5 +1,29 @@
 # DynamicMemoryNetwork
 
+# Single Supporting Fact
+## Train
+<p align="center">
+  <img src=https://github.com/Kong26/DynamicMemoryNetwork/blob/master/Results/Single_Supporting_Fact_Train_history.PNG width="1200"/>
+</p>
+
+## Test
+<p align="center">
+  <img src=https://github.com/Kong26/DynamicMemoryNetwork/blob/master/Results/Single_Supporting_Fact_Test_result.PNG width="1200"/>
+</p>
+
+# Qa4 Two Arg Relations
+## Train
+<p align="center">
+  <img src=https://github.com/Kong26/DynamicMemoryNetwork/blob/master/Results/qa4_training.PNG width="1200"/>
+</p>
+
+## Test
+<p align="center">
+  <img src=https://github.com/Kong26/DynamicMemoryNetwork/blob/master/Results/qa4_test.PNG width="1200"/>
+</p>
+
+
+
 ### GRU input module    
 torch.Size([3000, 300])  
 torch.Size([3000, 1000])  
@@ -42,13 +66,3 @@ torch.Size([3000, 1000])
 torch.Size([3000])  
 torch.Size([3000])  
 
-# Single Supporting Fact
-## Train
-<p align="center">
-  <img src=https://github.com/Kong26/DynamicMemoryNetwork/blob/master/Results/Single_Supporting_Fact_Train_history.PNG width="1200"/>
-</p>
-
-## Test
-<p align="center">
-  <img src=https://github.com/Kong26/DynamicMemoryNetwork/blob/master/Results/Single_Supporting_Fact_Test_result.PNG width="1200"/>
-</p>
